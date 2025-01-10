@@ -1,0 +1,44 @@
+Practice Questions:
+Lists and Loops
+
+Write a program that takes a list of numbers and prints only the positive numbers.
+Modify the program to print the sum of all numbers in the list.
+Dictionaries
+
+Create a dictionary with three key-value pairs representing a person’s name, age, and city. Write a program to display all keys and values.
+String Operations
+
+Write a program that counts the number of vowels in a given string.
+Modify it to count the number of words in the string.
+Functions with Return Values
+
+Write a function square(num) that returns the square of a number.
+Write another function is_prime(num) that checks if a number is prime.
+While Loop
+
+Write a program that keeps asking the user for input until they type "exit".
+List Comprehension
+
+Write a program using list comprehension that generates a list of squares for numbers from 1 to 10.
+Error Handling
+
+Write a program that asks the user to enter a number and handles the error if the user enters something that’s not a number.
+Simple Guessing Game
+
+Create a number guessing game where the computer randomly picks a number between 1 and 20, and the user has to guess it. The program should give hints like "Too high!" or "Too low!" until the user guesses the correct number.
+
+# User Input
+# Write a program that asks the user for their name and then greets them with their name.
+# Simple Arithmetic
+# Create a program that takes two numbers as input and prints their sum, difference, product, and quotient.
+# If-Else Statements
+# Write a Python program that takes an integer as input and prints whether the number is even or odd.
+# Loops
+# Write a program that prints the numbers from 1 to 10 using a for loop.
+# Modify the program to print only even numbers between 1 and 10.
+# Functions
+# Write a function greet_user(name) that takes a name as an argument and prints "Hello, [name]!"
+# Lists
+# Write a program that takes 5 numbers as input, stores them in a list, and prints the list.
+# Basic String Manipulation
+# Write a program that asks the user for a word and then prints the word in reverse.
